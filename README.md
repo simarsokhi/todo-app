@@ -1,2 +1,2 @@
 # todo-app
-its a todo list webapp.
+It's a todo list webapp built in Django.
